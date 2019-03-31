@@ -1,0 +1,16 @@
+```
+Beta Version Information...
+
+* Banners added
+* Prompt of comand added
+* Themes added
+* Bug fixeds
+
+```
+Next version: 1.5 Preview!
+
+That is the question...
+
+```
+
+
